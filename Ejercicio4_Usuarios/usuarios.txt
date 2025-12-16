@@ -1,0 +1,12 @@
+Juan
+Sanchez Perez
+0
+Pedro
+Palacios Elvira
+1
+Maria
+Lopez Garcia
+1
+Luis
+Gomez
+0
