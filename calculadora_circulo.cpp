@@ -78,5 +78,4 @@ int main() {
     cout << "Area: " << area << endl;
 
     return 0;
->>>>>>> fddbf8ce5c9168a56f6dabb529f44465c0a31601
 }
